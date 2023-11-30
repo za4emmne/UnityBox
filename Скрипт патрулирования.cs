@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Enemy : MonoBehaviour
+public class MoveTowards : MonoBehaviour
 {
     //1. В инспекторе необходмо создать пустые объекты, которые будут являться точками траектории и поместить их в ПУТЬ ТРАЕКТОРИИ
 
